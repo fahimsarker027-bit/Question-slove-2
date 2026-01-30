@@ -1,0 +1,18 @@
+<!-- Create a paragraph about why you want to learn web development.
+Use:
+
+<p>
+
+<strong>
+
+<em> -->
+
+  <!DOCTYPE html>
+<html>
+  <head>
+    <title>Heading Tags Example</title>
+  </head>
+  <body>
+   <p>I want to learn web development because it allows me <strong>to create websites and bring my ideas</strong> to life. It is a valuable skill in today’s digital <em>world and opens up many career </em>opportunities. Learning web development will help me build useful projects and improve my problem-solving skills.</p>
+  </body>
+  </html>
