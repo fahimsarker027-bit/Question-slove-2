@@ -1,0 +1,19 @@
+<!-- Create an HTML page that displays:
+
+Your name
+
+Your college name
+
+Your department -->
+
+<!DOCTYPE html>
+<htmL>
+  <head>
+<title> Student Information</title>
+  </head>
+  <body>
+    <p>Name:Md Fahim Sarker</p>
+    <p>College: Government Bangla College,Mirpur,Dhaka</p>
+      <p>Department:Chemistry</p>
+    </body>
+</html>
