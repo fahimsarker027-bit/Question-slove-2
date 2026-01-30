@@ -1,0 +1,24 @@
+<!--
+Create an HTML file that shows:
+
+One horizontal line
+
+One line break
+Explain through layout (not text) where each is used.
+-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Horizontal line and line break Example</title>
+  </head>
+  <body>
+    <h2>Horizontal line Example</h2>
+    <p>This is an example of a horizontal line below:</p>
+    <hr>
+    <p>The horizontal line above is used to separate sections of content visually.</p>
+    <h2>Line break Example</h2>
+    <p>This is an example of a line break below</p>
+    <br>
+    <p>The line break above is used to start a new line without starting a new paragraph.</p>
+    </body>
+    </html>
