@@ -1,0 +1,19 @@
+<!-- Write an HTML page that uses all six heading tags (<h1> to <h6>) to show:
+
+A topic name in <h1>
+
+Subtopics gradually decreasing in importance. -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Heading Tags Example</title>
+  </head>
+  <body>
+    <h1>Web Development</h1>
+    <h2>Frontend Development</h2>
+    <h3>HTML Learning</h3>
+    <h4>Css Basics</h4>
+    <h5>JavaScript Introduction</h5>
+    <h6>Framework Overview</h6>
+  </body>
+</html>
