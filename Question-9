@@ -1,0 +1,39 @@
+<!--Create a nested list:
+
+Main list: “Web Development”
+
+Sub-lists: HTML, CSS, JavaScript
+Each sub-list must contain at least 3 items. -->
+<!DOCtype html>
+<html>
+<head>Nested list Example</head>
+<body>
+<ul>
+<li>Web Development
+<ul>
+<li>HTML
+<ul>
+<li>Tags</li>
+<li>Elements</li>
+<li>Attrunutes</li>
+</ul>
+</li>
+<li>CSS
+<ul>
+<li>Selectors</li>
+<li>Colours</li>
+<li>Box Model</li>
+</ul>
+</li>
+<li>JavaScript
+<ul>
+<li>Variables</li>
+<li>Funcions</li>
+<li>Loops</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</body>
+</html>
