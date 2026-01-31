@@ -1,0 +1,36 @@
+<!-- Create an article-style page using:
+
+<header>
+
+<main>
+
+<footer>
+The topic should be “Importance of HTML”. -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Importance of HTML</title>
+</head>
+<body>
+<header>
+Important of HTML
+<P>The Foundation of Web Development</p>
+</header>
+<main>
+<article>
+<p>HTML (HyperText Markup Language) is the standard language used to create
+and structure web pages. It provides the basic framework for websites by defining elements such as headings, paragraphs, images, links, and forms. Without HTML, web browsers would not be able to display content correctly.</p>
+<p>One of the major reasons HTML is important is its simplicity and accessibility. It is easy to learn and supported by all modern browsers. HTML also works together with CSS and JavaScript to create visually appealing and interactive websites.</p>
+<p>In addition, HTML improves website accessibility and search engine
+optimization by using semantic elements. This helps search engines and
+assistive technologies understand the structure and meaning of web
+content.</p>
+</article>
+</main>
+<footer>
+<p>© 2026 Web Development Basics</p>
+<p>Written by Md Fahim Sarker</p>
+</footer>
+</body>
+</html>
