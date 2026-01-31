@@ -9,37 +9,37 @@ Change the list numbering style. -->
 <ol>
 <li>HTML</li>
 <li>C+</li>
-<li>C++
-<li>Css</</li>
+<li>C++</li>
+<li>Css</li>
 <li>JS</li>
 </ol>
-<ol style="A">
-<li>HTML
-<li>C+
-<li>C++
-<li>Css
-<li>JS
+<ol type="A">
+<li>HTML</li>
+<li>C+</li>
+<li>C++</li>
+<li>Css</li>
+<li>JS</li>
 </ol>
-<ol style="I">
-<li>HTML
-<li>C+
-<li>C++
-<li>Css
-<li>JS
+<ol type="I">
+<li>HTML</li>
+<li>C+</li>
+<li>C++</li>
+<li>Css</li>
+<li>JS</li>
 </ol>
 <ul>
-<li>HTML
-<li>C+
-<li>C++
-<li>Css
-<li>JS
+<li>HTML</li>
+<li>C+</li>
+<li>C++</li>
+<li>Css</li>
+<li>JS</li>
 </ul>
 <ul type="square">
-<li>HTML
-<li>C+
-<li>C++
-<li>Css
-<li>JS
+<li>HTML</li>
+<li>C+</li>
+<li>C++</li>
+<li>Css</li>
+<li>JS</li>
 </ul>
 
 </body>
