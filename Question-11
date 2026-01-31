@@ -1,0 +1,22 @@
+<!-- Write a paragraph and highlight:
+
+One word using <mark>
+
+One word using <small>
+
+One deleted word using <del> -->
+  <!DOCTYPE html>
+  <html>
+    <head>
+      <title>Text Highlight Example</title>
+    </head>
+    <body>
+      <h2>Text Hithlighting Example</h2>
+      <p>A paragraph is a group of <mark>sentences or a single</mark> sentence that forms a distinct unit of writing, focusing on a single, cohesive idea or topic. Typically, it begins with a topic sentence, followed by supporting sentences that provide details or examples, and often concludes by summarizing the main point. It acts as a visual and conceptual break in text, usually marked by an indentation or a line break. </p>
+<h2>Using Small tags</h2>
+<p>Supporting Sentences: Provide evidence, <small>examples,</small> or details that develop the topic sentence.
+</p>
+<h2>Using Deleted Tags</h2>
+<del>This word is deleted</del>
+</body>
+</html>
