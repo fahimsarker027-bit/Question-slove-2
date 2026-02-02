@@ -1,0 +1,17 @@
+<!-- Create a hyperlink that opens Google in a new tab. -->
+<!DOCTYPE html>
+<htmL>
+  <head>
+<title> Student Information</title>
+  </head>
+  <body>
+    <p>Name:Md Fahim Sarker</p>
+    <p>College: Government Bangla College,Mirpur,Dhaka</p>
+      <p>Department:Chemistry</p>
+  
+    <a href="file:///C:/Users/IT%20BD/OneDrive/Desktop/HTML-1/index.html">Click here visit to our page</a><br>
+    <a href="https://www.google.com/">Click here to visit Google</a><br>
+    <a href="https://www.youtube.com/">Click here to visit Youtube</a><br>
+    <a href="https://youtu.be/G3u4zuk-Fi8?si=fYX7L6R8Me-2RHm6">Click here to visit link video</a>
+  </body>
+  </htmL>
