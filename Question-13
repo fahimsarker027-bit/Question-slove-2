@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <htmL>
   <head>
-<title> Student Information</title>
+<title>  Link add point</title>
   </head>
   <body>
-    <p>Name:Md Fahim Sarker</p>
-    <p>College: Government Bangla College,Mirpur,Dhaka</p>
-      <p>Department:Chemistry</p>
+    <p>One of the most popular for link webside</p>
+    <p>So be careful while using link</p>
+      <p>Let,s go to start how to use link</p>
   
     <a href="file:///C:/Users/IT%20BD/OneDrive/Desktop/HTML-1/index.html">Click here visit to our page</a><br>
     <a href="https://www.google.com/">Click here to visit Google</a><br>
