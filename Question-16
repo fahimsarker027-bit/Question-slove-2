@@ -7,7 +7,7 @@
 <body>
   <h1>Clickable Image Examole code</h1>
   <p>Click the Image below to visit Youtube</p>
-  <a href="https://www.youtube.com/">
+  <a href="https://www.youtube.com/" target="_blank">
 <img src="image.png" width="300px" height="300px" alt="Image is not found">
 </a>
 
