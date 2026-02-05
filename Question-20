@@ -1,0 +1,34 @@
+<!-- Create a table timetable for weekly classes.
+Merge at least one row or column. -->
+<!DOCTYPE html>
+<html lang=en>
+  <head>
+    <title>Class Timetable</title>
+  </head>
+  <body>
+<h2>Weekly Class Timetable</h2>
+<table border="1">
+<tr>
+  <td align="center">Day</td>
+  <td align="center">9-10</td>
+  <td align="center">10-11</td>
+  <td align="center">11-12</td>
+</tr>
+<tr>
+  <td align="center">Monday</td>
+  <td align="center">Math</td>
+  <td align="center" colspan="1">Physics</td>
+</tr>
+<tr>
+  <td align="center">Tuesday</td>
+  <td align="center">English</td>
+  <td align="center">Chemistry</td>
+  <td align="center">Computer</td>
+</tr>
+<tr>
+  <td align="center">Wednesday</td>
+  <td align="center" colspan="3">Lab Class</td>
+  </tr>
+  </table>
+</body>
+</html>
