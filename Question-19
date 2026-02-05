@@ -1,0 +1,51 @@
+<!-- Create a table showing:
+
+Student Name
+
+Roll
+
+Subject
+
+Marks
+Add table border and header row. -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Student Table></title>
+  </head>
+  <body>
+    <h2>Student Marks Table</h2>
+    <table border="1">
+      <tr>
+        <td align="center">Student Name</td>
+        <td align="center">Roll</td>
+        <td align="center">Subject</td>
+        <td align="center">Marks</td>
+      </tr>
+      <tr>
+        <td align="center">Kamal</td>
+        <td align="center">01</td>
+        <td align="center">Mathmatics</td>
+        <td align="center">85</td>
+      </tr>
+      <tr>
+      <td align="center">Jamal</td>
+        <td align="center">02</td>
+        <td align="center">Mathmatics</td>
+        <td align="center">84</td>
+      </tr>
+      <tr>
+      <td align="center">Rahim</td>
+        <td align="center">03</td>
+        <td align="center">Mathmatics</td>
+        <td align="center">83</td>
+      </tr>
+      <tr>
+      <td align="center">Koli</td>
+        <td align="center">04</td>
+        <td align="center">Mathmatics</td>
+        <td align="center">82</td>
+      </tr>
+    </table>
+  </body>
+</html>
