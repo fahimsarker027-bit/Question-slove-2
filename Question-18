@@ -1,0 +1,14 @@
+<!-- Create an image gallery with 3 images placed vertically using only HTML. -->
+ <!DOCTYPE html>
+ <html>
+   <head>
+    <title>Image Gallery Set</title>
+</head>
+<body>
+  <h1>My Image Gallery</h1>
+  <img src="image gallery1.jpg.jpeg" alt="image1" Width="300px" height="300px"><br>
+  <img src="imagegallery2.jpg.jpeg" alt="image2" width="300px" height="300px"><br>
+  <img src="imagegallery3.jpg.jpeg" alt="image3" width="300px" height="300px">
+
+</body>
+</html>
