@@ -1,0 +1,71 @@
+<!-- Create a basic form with:
+Name
+Email
+Password
+Submit button -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Creat a basic from with Name,Email etc</title>
+  </head>
+  <body>
+    <h1>Creat a basic from with Name,Email etc</h1>
+    <!-- from-->
+    <div>
+      <label for="fullname">FullName:</label>
+      <input type="text" name="fullname" id="fullname" required><br>
+    </div>
+    <div>
+      <label for="email">Email:</label>
+      <input type="email" name="email" id="email"><br>
+    </div>
+    <div>
+      <label for="password">Password:</label>
+      <input type="password" name="password" id="password"><br>
+      
+    </div>
+     <div>
+      <label for="dob">Date of Birth:</label>
+      <input type="date" name="dob" id="dob"><br>
+      </div>
+      <!-- Date of birth setup-->
+       <!-- pfoto setup-->
+       <div>
+      <label for="photo">Choose your photo:</label>
+      <input type="file" name="photo" id="photo"><br>
+      </div>
+      <!-- radio and checkbox setup-->
+      <div>
+        <label for="gender">Gender:</label>
+      <input type="radio" name="gender" id="gender" value="male">Male
+    <input type="radio" name="gender" id="gender" value="female">Female<br>
+      </div>
+       <label for="religion">Relegion:</label>
+      <input type="checkbox" name="reletion" id="reletion" value="islam">Islam
+    <input type="checkbox" name="relegion" id="relegion" value="hindu">Hindu<br>
+      </div>
+      <!-- drop down setup-->
+      <div>
+        <label for="depatrment">Department:</label>
+        <select name="department">
+          <option value="cse">CSE</option>
+          <option value="eee">EEE</option>
+          <option value="chemistry" selected>Chemistry</option>
+          <option value="math">Mathmatics</option>
+          <option value="english">English</option>
+          <option value="bangla">Bangla</option>
+        </select>
+      </div>
+      <!-- textarea setup-->
+      <div>
+        <label for="massage">Massage</label><br>
+        <textarea cols="20" rows="20"></textarea>
+      </div>
+      <!-- submit and reset button setup -->
+      <div>
+        <input type="submit" value="Submit">
+        <input type="reset" value="Reset">
+      </div>
+  </body>
+
+</html>
