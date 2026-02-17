@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is my  webside</title>
+  </head>
+  <body>
+    <header>
+    <h1>This is my first sample webside</h1>
+    <p>Welcome to my semantic webpage</p>
+    </header>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Contract</a>
+      <a href="#">Service</a>
+    </nav>
+    <section>
+      <h2>Leasted Article</h2>
+      <article>
+        <h3>Article-1</h3>
+        <p>This is my first article contain</p>
+      </article>
+      <article>
+        <h3>Article-2</h3>
+        <p>This is my second article contain</p>
+      </article>
+    </section>
+    <footer>
+      <p>&copy; 2026 My Website | All Rights Reserved</p>
+    </footer>
+
+  </body>
+</html>
